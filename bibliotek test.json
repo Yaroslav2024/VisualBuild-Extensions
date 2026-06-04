@@ -1,9 +1,9 @@
 [
-{
-  "name": "RobotControl",
-  "language": "C++",
-  "description": "Basic hardware motor control library.",
-  "version": "1.0",
-  "header_code": "#ifndef ROBOT_CONTROL_H\n#define ROBOT_CONTROL_H\n#include <iostream>\nclass RobotControl {\npublic:\n static void startMotor() { std::cout << \"[Hardware] Motor RUNNING! >>>\" << std::endl; }\n static void stopMotor() { std::cout << \"[Hardware] Motor STOPPED! |||\" << std::endl; }\n};\n#endif"
-}
+  {
+    "name": "RobotControl",
+    "language": "C++",
+    "description": "Basic hardware motor control library.",
+    "version": "1.0",
+    "header_code": "#ifndef ROBOT_CONTROL_H\n#define ROBOT_CONTROL_H\n#include <iostream>\nclass RobotControl {\npublic:\n static void startMotor() { std::cout << \"[Hardware] Motor RUNNING! >>>\" << std::endl; }\n static void stopMotor() { std::cout << \"[Hardware] Motor STOPPED! |||\" << std::endl; }\n};\n#endif"
+  }
 ]

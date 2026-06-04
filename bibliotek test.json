@@ -1,10 +1,10 @@
 {
   "libraries": [
     {
-      "name": "RobotControl",
+      "name": "bibliotek test",
       "language": "C++",
       "description": "Basic hardware motor control library.",
-      "filename": "RobotControl.h",
+      "filename": "bibliotek test.h",
       "url": "https://raw.githubusercontent.com/Yaroslav2024/VisualBuild-Extensions/refs/heads/main/bibliotek test.h"
     }
   ]
